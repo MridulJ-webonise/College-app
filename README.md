@@ -1,1 +1,1 @@
-College Portal
+College Portal App
